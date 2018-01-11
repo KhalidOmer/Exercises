@@ -1,0 +1,8 @@
+# An integer is named good if the sum of its digits is equal to (2015 - n).
+What is the sum of all good integers?  
+First thought: n <= 2015  
+Second thought: d(n) <= 28
+when d(n) is maximum n equals 28 
+when d(n) is minimum n equals 2015 
+I want to the numbers in the range [2015-28, 2015]
+ 
