@@ -38,16 +38,3 @@ if __name__ == '__main__':
 	development.addMember(tom)
 	development.giveRaise(.10)
 	development.showAll()
-
-	
-	
-	
-
-
-
-
-
-
-
-
-

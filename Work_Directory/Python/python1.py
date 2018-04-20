@@ -34,6 +34,3 @@ class Person:
 
 rec1 = Person('Bob', ['dev', 'mgr'], 40.5)
 rec2 = Person('Sue', ['dev', 'mgr'])
-
-
-

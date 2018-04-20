@@ -16,12 +16,6 @@ class Manager(Person):
 	def giveRaise(self, percent, bonus=.10):
 		Person.giveRaise(self, percent + bonus)
 
-
-
-
-
-
-
 if __name__ == '__main__':
 #self-test code
 	bob = Person('Bob Smith')
@@ -39,12 +33,4 @@ if __name__ == '__main__':
 	for obj in (bob, sue, tom):
 		obj.giveRaise(.10)
 		print(obj)
-
-
-
-
-
-
-
-
 

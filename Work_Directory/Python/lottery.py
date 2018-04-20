@@ -1,5 +1,7 @@
 import numpy as np 
 
+"""This is a simple common game that asks you to guess a number 
+	if you are lucky your number will match the computer's number"""
 def luck_game():
 	print("Hello, let's check if you're lucky!'")
 	print("You are asked to guess a number between 0 and 10'")

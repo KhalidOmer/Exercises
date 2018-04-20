@@ -4,5 +4,5 @@ First thought: n <= 2015
 Second thought: d(n) <= 28
 when d(n) is maximum n equals 28 
 when d(n) is minimum n equals 2015 
-I want to the numbers in the range [2015-28, 2015]
+I want it to the numbers in the range [2015-28, 2015]
  
